@@ -1,0 +1,348 @@
+@media (max-width: 1400px) {
+    .menu-box{
+        left: 6%;
+        width: 22%;
+    }
+    .next-box-text{
+        padding: 0 10px;
+        margin-top: 95px;
+    }
+    .registration {
+        color: #bebebe !important;
+    }
+    .same-news{
+        padding-top: 20px;
+    }
+    .logo-footer{
+        margin: 0 0 0 40px;
+    }
+    .logo{
+        padding: 0 70px;
+    }
+    .menu-item {
+        padding: 0 52px;}
+}
+@media (max-width: 1250px) {
+    .menu-box{
+        width: 20%;
+    }
+    .logo-footer{
+        margin: 0;
+    }
+}
+
+@media  (max-width: 1200px){
+    .menu-box{
+        width: 23.5%;
+        left: 3%;
+    }
+    .logo{
+        margin: 30px 0 90px;
+    }
+    .menu-item {
+        margin-bottom: 30px;
+    }
+    .top-block{
+        height: 275px;
+    }
+    .second-block{
+        height: 195px;
+    }
+    .some-text{
+        font-size: 15px;
+        margin: 0;
+    }
+    .soon{
+        font-size: 27px;
+        margin: 0;
+    }
+    .create{
+        font-size: 27px;
+        margin: 0;
+    }
+    .pers{
+        font-size: 30px;
+    }
+    .lore{
+        margin: 0;
+    }
+    .third-block{
+        height: 195px;
+    }
+    .second-block img {
+        width: 60%;
+    }
+    .third-block img {
+        bottom: -23px;
+        right: -44px;
+        width: 56%;
+    }
+    .list-war {
+        margin: 15px 15px 15px;
+    }
+    .steel_man{
+        height: 115px;
+        background-position-x: center;
+    }
+    .text-items{
+        font-size: 13px;
+        margin: 8px 0;
+    }
+    .gnom {
+        width: 19%;}
+    .steel{
+        width: 11%;
+    }
+    .list-war2 {
+        margin: 20px 15px 0;
+    }
+    .next-box{
+        height: 240px;
+    }
+    .next-box1, .next-box2, .next-box3, .next-box4 {
+        background-size: 100%;
+    }
+    .about-price{
+        color: #e48612;
+    }
+    .next-box-text2{
+        font-weight: 800;
+        color: #51e0d3;
+    }
+    .next-box-text{
+        font-size: 15px;
+        margin: 0 0 -50px;
+    }
+    .user-box{
+        height: 110px;
+    }
+    .username {
+        padding: 5px 102px 5px 5px;
+    }
+    .points {
+        padding: 5px 50px 5px 0;
+    }
+    .stat {
+        padding: 5px 50px 5px 0;
+    }
+    table th {
+        margin: 0 36px;
+    }
+    .point{
+        margin: 0 21px 0 63px;
+    }
+    .statistic{
+        margin: 0 25px 0 40px;
+    }
+}
+@media (max-width: 992px) {
+    .menu-box{
+        display: none;
+    }
+    .burger-box{
+        display: inline-block;
+    }
+    .burger.active{
+        left: 15px;
+    }
+    .first-top-block{
+        padding: 15px 0 15px;
+    }
+.point{
+    margin: 0 17px 0 60px;
+}
+}
+@media (max-width: 895px) {
+    .menu-box.active{
+        left: 3%;
+    }
+    .burger.active{
+        left: -26px;
+    }
+}
+@media (max-width: 795px) {
+    .menu-box.active{
+        left: 3%;
+    }
+    .burger.active{
+        left: 0;
+    }
+}
+@media (max-width: 767px) {
+    .menu-box.active{
+        left: 3%;
+    }
+    .burger.active{
+        left: -66px;
+    }
+    .top-block{
+        background-size: cover;
+    }
+    .second-text {
+        width: 350px;
+    }
+    .second-block img {
+        width: 42%;
+        right: 9px;
+    }
+    .third-block img {
+        right: -20px;
+        width: 38%;
+    }
+    .steel_man {
+        justify-content: center;
+        background-position-x: right;
+    }
+    .text-items {
+        margin: 8px 17px;
+    }
+    .steel {
+        width: 16%;
+    }
+    .gnom {
+        width: 24%;
+    }
+    .next-box-text{
+        font-size: 26px;
+        margin: -20px 0 0 0;
+        padding: 0 14px;
+    }
+    .users img{
+        width: 85%;
+    }
+    .menu-box-right{
+        display: none;
+    }
+    .pro_gamer{
+        height: 170px;
+    }
+    .about-price{
+        width: 85%;
+        position: absolute;
+    }
+    .username {
+        padding: 5px 10px 5px 5px;
+    }
+    .points {
+        padding: 5px 5px 5px 0;
+    }
+    .stat {
+        padding: 5px 5px 5px 0;
+    }
+    table th{
+        font-size: 11px;
+        margin: 0 32px;
+    }
+    .point {
+        margin: 0 0 0 18px;
+    }
+    .statistic {
+         margin: 0 10px 0 33px;
+     }
+    .games-list img {
+        width: 100%;
+    }
+}
+@media (max-width: 667px) {
+    .menu-box.active{
+        left: 3%;
+    }
+    .burger.active{
+        left: -15px;
+    }
+}
+@media (max-width: 576px) {
+    .menu-box.active{
+        left: 3%;
+    }
+    .burger.active{
+        left: 17px;
+    }
+    .tumbler, .dark,.flag{
+        display: none;
+    }
+    table th {
+        margin: 0 17px;
+    }
+    .about-price{
+        width: 85%;}
+    .next-box-text {
+        font-size: 26px;
+        margin: -20px 0 0 50%;
+    }
+}
+@media (max-width: 475px) {
+    .next-box1, .next-box2, .next-box3, .next-box4 {
+        background-size: 40%;
+        background-position-y: center;}
+    .about-price{
+        width: 40%;
+        right: 30px;
+    }
+    .bottom {
+        width: 55%;
+        right: 0;
+    }
+}
+@media (max-width: 415px) {
+    .about-price{
+        width: 50%;
+        right: 30px;
+    }
+}
+@media (max-width: 400px){
+    .search-panel {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .top-block {
+        height: 300px;
+    }
+    .text-box {
+        text-align: center;}
+    .second-text {
+        width: 200px;
+    }
+    .text-items {
+        margin: 8px 5px;
+    }
+    .games-data {
+        display: none;
+    }
+    .point {
+        margin: 0 0 0 3px;
+    }
+    .statistic {
+        margin: 0 10px 0 14px;
+    }
+    .pro_gamer {
+        height: 250px;
+    }
+    .third-block img {
+        right: -9px;
+        bottom: -16px;
+    }
+    .gnom {
+        width: 18%;
+    }
+    .next-box1, .next-box2, .next-box3, .next-box4 {
+        background-position-y: inherit;
+    }
+    .rait{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 320px) {
+    .pro_gamer {
+        height: 193px;
+    }
+    .bottom {
+        width: 100%;
+        right: 0;
+    }
+    .about-price {
+        width: 62%;
+        right: -2px;
+    }
+}
+
